@@ -20,18 +20,24 @@ Welcome to the AI-Powered YouTube Video Summarizer! This web application leverag
 
 - **Seamless User Experience**: JavaScript and Ajax integration make using our app a breeze.
   <br><br>
-![blogaihomepage](https://github.com/Abhay-Kanwasi/AI-Blog-Generator/assets/78997764/90d98beb-a34a-4a12-8d74-6dd415b1c5f1)
+![image](https://github.com/user-attachments/assets/ccfbe2b0-3e42-4aaf-bd28-2b6b7c9547a8)
+
 
 
 - **Video Transcription**: AssemblyAI transcribes YouTube videos for accurate content analysis.
 
 - **AI-Generated Blogs**: OpenAI generates insightful blog posts from video transcriptions.
   <br><br>
-![allblogpost](https://github.com/Abhay-Kanwasi/AI-Blog-Generator/assets/78997764/c40f81a0-de1d-4f70-8ae9-f34759de250d)
+![image](https://github.com/user-attachments/assets/2c9e8745-3e97-4252-af76-44c38df655f8)
+<br><br>
+![image](https://github.com/user-attachments/assets/964313a7-e622-4588-a3f5-4d61f1ef7fb8)
+
+
 
 - **Data Persistence**: Blog posts are securely saved to the database for easy retrieval.
   <br><br>
-![BlogpostDetails](https://github.com/Abhay-Kanwasi/AI-Blog-Generator/assets/78997764/07fd5081-9578-4628-bfc1-ebcc11ea4096)
+![image](https://github.com/user-attachments/assets/dbc6b255-bb3a-46da-a34f-713862b18166)
+
 
 ## Installation
 Follow these steps to get your AI-Powered YouTube Video Summarizer up and running:
